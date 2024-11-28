@@ -1,4 +1,5 @@
-# Two-mini-games-with-Cpp
-I made them when I was at high school for school projects (2014-2015).
-Loogooli: The character named Loogooli is trying to get apples that falling from sky.
-Hidden Ball: There are three cups and one ball. Ball hidden under a cup and cups start moving. Player should guess the cup that hiding the ball.
+# Two Mini-Games with C++
+These mini-games were created during high school (2014-2015) as part of school projects.
+
+1) Loogooli: The character, Loogooli, tries to catch apples falling from the sky.
+2) Hidden Ball: The game features three cups, with a ball hidden under one. The cups move around, and the player must guess which cup holds the ball.
